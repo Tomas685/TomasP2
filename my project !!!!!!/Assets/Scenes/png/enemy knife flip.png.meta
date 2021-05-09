@@ -1,0 +1,2149 @@
+fileFormatVersion: 2
+guid: 985230003598c2146861cdfa84b214bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3634311276545004150
+    second: enemy knife flip_0
+  - first:
+      213: 8154492691283948054
+    second: enemy knife flip_1
+  - first:
+      213: 1588946453635805082
+    second: enemy knife flip_2
+  - first:
+      213: -2926638727690067938
+    second: enemy knife flip_3
+  - first:
+      213: -2206086460994715744
+    second: enemy knife flip_4
+  - first:
+      213: -3549995096103337732
+    second: enemy knife flip_5
+  - first:
+      213: -5572058763677430725
+    second: enemy knife flip_6
+  - first:
+      213: 4699070089323079752
+    second: enemy knife flip_7
+  - first:
+      213: 6636384616827098172
+    second: enemy knife flip_8
+  - first:
+      213: -3312973824573216651
+    second: enemy knife flip_9
+  - first:
+      213: 8771556340978545430
+    second: enemy knife flip_10
+  - first:
+      213: -6708629275114640922
+    second: enemy knife flip_11
+  - first:
+      213: -5041057990027070218
+    second: enemy knife flip_12
+  - first:
+      213: -4689895839178768702
+    second: enemy knife flip_13
+  - first:
+      213: -1303781658133571131
+    second: enemy knife flip_14
+  - first:
+      213: -1383573572085345805
+    second: enemy knife flip_15
+  - first:
+      213: 5231547500214449852
+    second: enemy knife flip_16
+  - first:
+      213: 8438425586027040029
+    second: enemy knife flip_17
+  - first:
+      213: -3896698155954324019
+    second: enemy knife flip_18
+  - first:
+      213: -5966018155789367234
+    second: enemy knife flip_19
+  - first:
+      213: 941558674178769624
+    second: enemy knife flip_20
+  - first:
+      213: -6563882350624623901
+    second: enemy knife flip_21
+  - first:
+      213: -4176505291040279150
+    second: enemy knife flip_22
+  - first:
+      213: -7011611823414479275
+    second: enemy knife flip_23
+  - first:
+      213: -7806284325828526582
+    second: enemy knife flip_24
+  - first:
+      213: -9071782694982480003
+    second: enemy knife flip_25
+  - first:
+      213: -8012104393136568195
+    second: enemy knife flip_26
+  - first:
+      213: 7807350617037082808
+    second: enemy knife flip_27
+  - first:
+      213: 3045655708805845294
+    second: enemy knife flip_28
+  - first:
+      213: -9205446942447276122
+    second: enemy knife flip_29
+  - first:
+      213: -6638393561321681485
+    second: enemy knife flip_30
+  - first:
+      213: 5206401929635496679
+    second: enemy knife flip_31
+  - first:
+      213: 1795642407686820034
+    second: enemy knife flip_32
+  - first:
+      213: -5172370367998070836
+    second: enemy knife flip_33
+  - first:
+      213: 7151093041164651920
+    second: enemy knife flip_34
+  - first:
+      213: 2816618403637083339
+    second: enemy knife flip_35
+  - first:
+      213: -9166705096378745387
+    second: enemy knife flip_36
+  - first:
+      213: 8489401581469923125
+    second: enemy knife flip_37
+  - first:
+      213: 6509933102306399680
+    second: enemy knife flip_38
+  - first:
+      213: -3583251683669104075
+    second: enemy knife flip_39
+  - first:
+      213: -7645917939704858260
+    second: enemy knife flip_40
+  - first:
+      213: 7173445471316246548
+    second: enemy knife flip_41
+  - first:
+      213: -6905282268235310257
+    second: enemy knife flip_42
+  - first:
+      213: 7930530065363678011
+    second: enemy knife flip_43
+  - first:
+      213: -8402414805293301375
+    second: enemy knife flip_44
+  - first:
+      213: -4841154730792214331
+    second: enemy knife flip_45
+  - first:
+      213: -3639862110582186119
+    second: enemy knife flip_46
+  - first:
+      213: -3215321775679332521
+    second: enemy knife flip_47
+  - first:
+      213: -2966707882734173981
+    second: enemy knife flip_48
+  - first:
+      213: 1741146416309208868
+    second: enemy knife flip_49
+  - first:
+      213: 6070748802168750596
+    second: enemy knife flip_50
+  - first:
+      213: 4186632491680038402
+    second: enemy knife flip_51
+  - first:
+      213: 3851144047372703417
+    second: enemy knife flip_52
+  - first:
+      213: 420304407258809274
+    second: enemy knife flip_53
+  - first:
+      213: -5198140039024979098
+    second: enemy knife flip_54
+  - first:
+      213: -6383666723477258481
+    second: enemy knife flip_55
+  - first:
+      213: 9062930293643349414
+    second: enemy knife flip_56
+  - first:
+      213: -8163741948537048233
+    second: enemy knife flip_57
+  - first:
+      213: 9039368085324761993
+    second: enemy knife flip_58
+  - first:
+      213: 6700109311451883038
+    second: enemy knife flip_59
+  - first:
+      213: 3115930788107919792
+    second: enemy knife flip_60
+  - first:
+      213: 6279756834195452240
+    second: enemy knife flip_61
+  - first:
+      213: 3955621346326063207
+    second: enemy knife flip_62
+  - first:
+      213: -1437962283786090770
+    second: enemy knife flip_63
+  - first:
+      213: 4668582122474289068
+    second: enemy knife flip_64
+  - first:
+      213: 859164521152277336
+    second: enemy knife flip_65
+  - first:
+      213: -9042314522637520955
+    second: enemy knife flip_66
+  - first:
+      213: 6473732091421565964
+    second: enemy knife flip_67
+  - first:
+      213: -6094358197846912355
+    second: enemy knife flip_68
+  - first:
+      213: 3304638921641317490
+    second: enemy knife flip_69
+  - first:
+      213: 3217940553515980809
+    second: enemy knife flip_70
+  - first:
+      213: 4474087600496214838
+    second: enemy knife flip_71
+  - first:
+      213: 6071456658509820209
+    second: enemy knife flip_72
+  - first:
+      213: -8892981586091394830
+    second: enemy knife flip_73
+  - first:
+      213: 5899320437198216647
+    second: enemy knife flip_74
+  - first:
+      213: 7426207778601133029
+    second: enemy knife flip_75
+  - first:
+      213: 4983990107459143559
+    second: enemy knife flip_76
+  - first:
+      213: -559659879313250078
+    second: enemy knife flip_77
+  - first:
+      213: -2882794879090795022
+    second: enemy knife flip_78
+  - first:
+      213: -2035476308243830099
+    second: enemy knife flip_79
+  - first:
+      213: 6499367261906961295
+    second: enemy knife flip_80
+  - first:
+      213: 2504351053861768137
+    second: enemy knife flip_81
+  - first:
+      213: 8270717245001252178
+    second: enemy knife flip_82
+  - first:
+      213: 5585897697784264516
+    second: enemy knife flip_83
+  - first:
+      213: -7632090645164321678
+    second: enemy knife flip_84
+  - first:
+      213: 1080489646058466773
+    second: enemy knife flip_85
+  - first:
+      213: 6326993029860973062
+    second: enemy knife flip_86
+  - first:
+      213: -9000295238717728544
+    second: enemy knife flip_87
+  - first:
+      213: -6843530210993574112
+    second: enemy knife flip_88
+  - first:
+      213: -3236491745387784347
+    second: enemy knife flip_89
+  - first:
+      213: -3387931863487587317
+    second: enemy knife flip_90
+  - first:
+      213: 7108769849342934075
+    second: enemy knife flip_91
+  - first:
+      213: -5690551859391370544
+    second: enemy knife flip_92
+  - first:
+      213: 1197856560712422587
+    second: enemy knife flip_93
+  - first:
+      213: 544186711846969229
+    second: enemy knife flip_94
+  - first:
+      213: -415088787809907072
+    second: enemy knife flip_95
+  - first:
+      213: -4492338005385318410
+    second: enemy knife flip_96
+  - first:
+      213: -4565644741723213967
+    second: enemy knife flip_97
+  - first:
+      213: -9080046397120875374
+    second: enemy knife flip_98
+  - first:
+      213: -7586203732070905790
+    second: enemy knife flip_99
+  - first:
+      213: 5145840696370901461
+    second: enemy knife flip_100
+  - first:
+      213: 3925434734671846970
+    second: enemy knife flip_101
+  - first:
+      213: -7115607935298799605
+    second: enemy knife flip_102
+  - first:
+      213: -2144056654716808104
+    second: enemy knife flip_103
+  - first:
+      213: 8361973541065309227
+    second: enemy knife flip_104
+  - first:
+      213: 6214133007694488086
+    second: enemy knife flip_105
+  - first:
+      213: -900283609591394336
+    second: enemy knife flip_106
+  - first:
+      213: -7878186524601192285
+    second: enemy knife flip_107
+  - first:
+      213: 3324117572806289068
+    second: enemy knife flip_108
+  - first:
+      213: -7984866173694455893
+    second: enemy knife flip_109
+  - first:
+      213: -6580278409520917940
+    second: enemy knife flip_110
+  - first:
+      213: -4434021954582821911
+    second: enemy knife flip_111
+  - first:
+      213: 7981721479134696316
+    second: enemy knife flip_112
+  - first:
+      213: -7164350255482946880
+    second: enemy knife flip_113
+  - first:
+      213: -574340698079117409
+    second: enemy knife flip_114
+  - first:
+      213: 4108058048388995226
+    second: enemy knife flip_115
+  - first:
+      213: 5982656272718883882
+    second: enemy knife flip_116
+  - first:
+      213: 3006503165114216690
+    second: enemy knife flip_117
+  - first:
+      213: -2239189557238435666
+    second: enemy knife flip_118
+  - first:
+      213: -5084625460073372111
+    second: enemy knife flip_119
+  - first:
+      213: 5551235854053394488
+    second: enemy knife flip_120
+  - first:
+      213: -4687296780807914261
+    second: enemy knife flip_121
+  - first:
+      213: 6407182316673516915
+    second: enemy knife flip_122
+  - first:
+      213: -2780217417477299439
+    second: enemy knife flip_123
+  - first:
+      213: -854912115236268509
+    second: enemy knife flip_124
+  - first:
+      213: 223831285214502464
+    second: enemy knife flip_125
+  - first:
+      213: 4962311229373063668
+    second: enemy knife flip_126
+  - first:
+      213: 4875355384938172872
+    second: enemy knife flip_127
+  - first:
+      213: -1980980369722786536
+    second: enemy knife flip_128
+  - first:
+      213: 2373330309729873150
+    second: enemy knife flip_129
+  - first:
+      213: 1415391438948578213
+    second: enemy knife flip_130
+  - first:
+      213: 4153811501413860736
+    second: enemy knife flip_131
+  - first:
+      213: 2139743027056768930
+    second: enemy knife flip_132
+  - first:
+      213: -3701852981727990246
+    second: enemy knife flip_133
+  - first:
+      213: -489822250050460545
+    second: enemy knife flip_134
+  - first:
+      213: 3590980243634246083
+    second: enemy knife flip_135
+  - first:
+      213: -5952300327511855005
+    second: enemy knife flip_136
+  - first:
+      213: 6035267742646527870
+    second: enemy knife flip_137
+  - first:
+      213: -5396609022271449686
+    second: enemy knife flip_138
+  - first:
+      213: -7053464956356680456
+    second: enemy knife flip_139
+  - first:
+      213: 555548144782696700
+    second: enemy knife flip_140
+  - first:
+      213: -1467973064820606725
+    second: enemy knife flip_141
+  - first:
+      213: -318516885967149559
+    second: enemy knife flip_142
+  - first:
+      213: -4688716471281298841
+    second: enemy knife flip_143
+  - first:
+      213: -1358247171160940488
+    second: enemy knife flip_144
+  - first:
+      213: -2538081198844649496
+    second: enemy knife flip_145
+  - first:
+      213: 4930051534327231225
+    second: enemy knife flip_146
+  - first:
+      213: -6585145108874887365
+    second: enemy knife flip_147
+  - first:
+      213: -3136620524811821468
+    second: enemy knife flip_148
+  - first:
+      213: 1112207352807427619
+    second: enemy knife flip_149
+  - first:
+      213: 40373812290852450
+    second: enemy knife flip_150
+  - first:
+      213: -5445675458360810970
+    second: enemy knife flip_151
+  - first:
+      213: 9145669723737738426
+    second: enemy knife flip_152
+  - first:
+      213: 7522147166596392901
+    second: enemy knife flip_153
+  - first:
+      213: -2258168038116808154
+    second: enemy knife flip_154
+  - first:
+      213: 4646819744622039885
+    second: enemy knife flip_155
+  - first:
+      213: -7616630375191674842
+    second: enemy knife flip_156
+  - first:
+      213: 8153638890363868262
+    second: enemy knife flip_157
+  - first:
+      213: 884530183028778828
+    second: enemy knife flip_158
+  - first:
+      213: -5919059292527297352
+    second: enemy knife flip_159
+  - first:
+      213: -6505476230071682186
+    second: enemy knife flip_160
+  - first:
+      213: -5743153538802103208
+    second: enemy knife flip_161
+  - first:
+      213: -4709214517475079157
+    second: enemy knife flip_162
+  - first:
+      213: 965449906935055497
+    second: enemy knife flip_163
+  - first:
+      213: 519029136249915835
+    second: enemy knife flip_164
+  - first:
+      213: 5108893141707402482
+    second: enemy knife flip_165
+  - first:
+      213: -1801245056062053553
+    second: enemy knife flip_166
+  - first:
+      213: -1413481532185131714
+    second: enemy knife flip_167
+  - first:
+      213: -8354256636446911038
+    second: enemy knife flip_168
+  - first:
+      213: -5531644286500890524
+    second: enemy knife flip_169
+  - first:
+      213: 4297726530645386183
+    second: enemy knife flip_170
+  - first:
+      213: -3886397258227424565
+    second: enemy knife flip_171
+  - first:
+      213: 2629595429933278703
+    second: enemy knife flip_172
+  - first:
+      213: 2828487037484913223
+    second: enemy knife flip_173
+  - first:
+      213: 3045900133423992499
+    second: enemy knife flip_174
+  - first:
+      213: -5618590250532717246
+    second: enemy knife flip_175
+  - first:
+      213: -3326462619001028515
+    second: enemy knife flip_176
+  - first:
+      213: -4566791389243104236
+    second: enemy knife flip_177
+  - first:
+      213: 4410762420406986751
+    second: enemy knife flip_178
+  - first:
+      213: -4900324085977021190
+    second: enemy knife flip_179
+  - first:
+      213: -5463845802598258299
+    second: enemy knife flip_180
+  - first:
+      213: 6558549139572013672
+    second: enemy knife flip_181
+  - first:
+      213: -212423074079568806
+    second: enemy knife flip_182
+  - first:
+      213: -7767259428833216316
+    second: enemy knife flip_183
+  - first:
+      213: 7540049391031811541
+    second: enemy knife flip_184
+  - first:
+      213: -4149036906500236455
+    second: enemy knife flip_185
+  - first:
+      213: 330369463942816972
+    second: enemy knife flip_186
+  - first:
+      213: 1806158084519666875
+    second: enemy knife flip_187
+  - first:
+      213: -1739334314773311325
+    second: enemy knife flip_188
+  - first:
+      213: 8724512521741457296
+    second: enemy knife flip_189
+  - first:
+      213: 958748216124356133
+    second: enemy knife flip_190
+  - first:
+      213: -3647137061637964039
+    second: enemy knife flip_191
+  - first:
+      213: 2571383244356172483
+    second: enemy knife flip_192
+  - first:
+      213: 1184997375151628781
+    second: enemy knife flip_193
+  - first:
+      213: -6579757309541186019
+    second: enemy knife flip_194
+  - first:
+      213: 1098294512909962396
+    second: enemy knife flip_195
+  - first:
+      213: 7263497689353316351
+    second: enemy knife flip_196
+  - first:
+      213: -8506613250180604419
+    second: enemy knife flip_197
+  - first:
+      213: -4159425299281810038
+    second: enemy knife flip_198
+  - first:
+      213: -2532681257136369292
+    second: enemy knife flip_199
+  - first:
+      213: 7913361197628068784
+    second: enemy knife flip_200
+  - first:
+      213: 7758628598929496712
+    second: enemy knife flip_201
+  - first:
+      213: -4306996483515201778
+    second: enemy knife flip_202
+  - first:
+      213: 7372962227263068058
+    second: enemy knife flip_203
+  - first:
+      213: 4701336774347818136
+    second: enemy knife flip_204
+  - first:
+      213: -3285032846876644420
+    second: enemy knife flip_205
+  - first:
+      213: 3079542287019225333
+    second: enemy knife flip_206
+  - first:
+      213: 7413704185944142149
+    second: enemy knife flip_207
+  - first:
+      213: -2922315738164914461
+    second: enemy knife flip_208
+  - first:
+      213: 5673803640809481518
+    second: enemy knife flip_209
+  - first:
+      213: -2584665425366181379
+    second: enemy knife flip_210
+  - first:
+      213: -286792375043835961
+    second: enemy knife flip_211
+  - first:
+      213: 8875575269818588637
+    second: enemy knife flip_212
+  - first:
+      213: 6837772372498051532
+    second: enemy knife flip_213
+  - first:
+      213: 6235471373774036832
+    second: enemy knife flip_214
+  - first:
+      213: 4327721564099193521
+    second: enemy knife flip_215
+  - first:
+      213: -2788025854227596236
+    second: enemy knife flip_216
+  - first:
+      213: 5137752823587587288
+    second: enemy knife flip_217
+  - first:
+      213: -3609669086122357802
+    second: enemy knife flip_218
+  - first:
+      213: -6647827219304010347
+    second: enemy knife flip_219
+  - first:
+      213: 7609858762987385145
+    second: enemy knife flip_220
+  - first:
+      213: 1562293610348871646
+    second: enemy knife flip_221
+  - first:
+      213: -341694566408562321
+    second: enemy knife flip_222
+  - first:
+      213: -2795878688068893291
+    second: enemy knife flip_223
+  - first:
+      213: -201702162569189661
+    second: enemy knife flip_224
+  - first:
+      213: -2845247725725625109
+    second: enemy knife flip_225
+  - first:
+      213: 5034451906490642201
+    second: enemy knife flip_226
+  - first:
+      213: 3757027712592914719
+    second: enemy knife flip_227
+  - first:
+      213: -315692402321770761
+    second: enemy knife flip_228
+  - first:
+      213: -3666378382067009550
+    second: enemy knife flip_229
+  - first:
+      213: 3846667020127660851
+    second: enemy knife flip_230
+  - first:
+      213: 3630701846243099322
+    second: enemy knife flip_231
+  - first:
+      213: -6989636862240849837
+    second: enemy knife flip_232
+  - first:
+      213: 6188270162061998237
+    second: enemy knife flip_233
+  - first:
+      213: -7360297909740722465
+    second: enemy knife flip_234
+  - first:
+      213: -6596487739951131341
+    second: enemy knife flip_235
+  - first:
+      213: -6485659350815366042
+    second: enemy knife flip_236
+  - first:
+      213: -2318492700958401267
+    second: enemy knife flip_237
+  - first:
+      213: -1760877266266374422
+    second: enemy knife flip_238
+  - first:
+      213: -4996788042744118290
+    second: enemy knife flip_239
+  - first:
+      213: -6896977310349938488
+    second: enemy knife flip_240
+  - first:
+      213: -7738596771905372009
+    second: enemy knife flip_241
+  - first:
+      213: 885865251210032460
+    second: enemy knife flip_242
+  - first:
+      213: -4522629011408068357
+    second: enemy knife flip_243
+  - first:
+      213: 3944290204011995179
+    second: enemy knife flip_244
+  - first:
+      213: 6597518632331539051
+    second: enemy knife flip_245
+  - first:
+      213: -7905314871636841119
+    second: enemy knife flip_246
+  - first:
+      213: 6142184551171927725
+    second: enemy knife flip_247
+  - first:
+      213: -7030671284570203711
+    second: enemy knife flip_248
+  - first:
+      213: -6118139183863404883
+    second: enemy knife flip_249
+  - first:
+      213: -359723481004607638
+    second: enemy knife flip_250
+  - first:
+      213: 1815794510521231916
+    second: enemy knife flip_251
+  - first:
+      213: 6534042461452676904
+    second: enemy knife flip_252
+  - first:
+      213: 1901861619950676725
+    second: enemy knife flip_253
+  - first:
+      213: -3469864076498552066
+    second: enemy knife flip_254
+  - first:
+      213: 7780043316331682491
+    second: enemy knife flip_255
+  - first:
+      213: -6728609212235662933
+    second: enemy knife flip_256
+  - first:
+      213: -9052398349570303882
+    second: enemy knife flip_257
+  - first:
+      213: -4087927781700349471
+    second: enemy knife flip_258
+  - first:
+      213: -1751739305676123537
+    second: enemy knife flip_259
+  - first:
+      213: 3238574464175178207
+    second: enemy knife flip_260
+  - first:
+      213: 4501654534961006679
+    second: enemy knife flip_261
+  - first:
+      213: 5314077448503864500
+    second: enemy knife flip_262
+  - first:
+      213: -2409605532487991582
+    second: enemy knife flip_263
+  - first:
+      213: -61540531443244002
+    second: enemy knife flip_264
+  - first:
+      213: 2747260007200658018
+    second: enemy knife flip_265
+  - first:
+      213: -2253209524898746641
+    second: enemy knife flip_266
+  - first:
+      213: 3982667245304904785
+    second: enemy knife flip_267
+  - first:
+      213: 4348017885834905568
+    second: enemy knife flip_268
+  - first:
+      213: 7175947510360467866
+    second: enemy knife flip_269
+  - first:
+      213: 8825849158998563227
+    second: enemy knife flip_270
+  - first:
+      213: -4989182390731646974
+    second: enemy knife flip_271
+  - first:
+      213: 2051202119214228603
+    second: enemy knife flip_272
+  - first:
+      213: 7334610947051745101
+    second: enemy knife flip_273
+  - first:
+      213: -922837146790151359
+    second: enemy knife flip_274
+  - first:
+      213: -8728974027403776911
+    second: enemy knife flip_275
+  - first:
+      213: 1849621605678726652
+    second: enemy knife flip_276
+  - first:
+      213: -4985762794888003688
+    second: enemy knife flip_277
+  - first:
+      213: 6196904742788208446
+    second: enemy knife flip_278
+  - first:
+      213: -7493906172410184567
+    second: enemy knife flip_279
+  - first:
+      213: 6652061384693356351
+    second: enemy knife flip_280
+  - first:
+      213: -3955012249714819493
+    second: enemy knife flip_281
+  - first:
+      213: 5531991434949519856
+    second: enemy knife flip_282
+  - first:
+      213: -3985869834415881184
+    second: enemy knife flip_283
+  - first:
+      213: 8535724350294546919
+    second: enemy knife flip_284
+  - first:
+      213: -1663276126951259268
+    second: enemy knife flip_285
+  - first:
+      213: -5682643342628436300
+    second: enemy knife flip_286
+  - first:
+      213: -8871145485830520492
+    second: enemy knife flip_287
+  - first:
+      213: 7829655427784645484
+    second: enemy knife flip_288
+  - first:
+      213: 8248235409150497201
+    second: enemy knife flip_289
+  - first:
+      213: 8795498921827289989
+    second: enemy knife flip_290
+  - first:
+      213: -4194626737153548653
+    second: enemy knife flip_291
+  - first:
+      213: 4584099020729534984
+    second: enemy knife flip_292
+  - first:
+      213: -952405608738887440
+    second: enemy knife flip_293
+  - first:
+      213: -6269220005768797664
+    second: enemy knife flip_294
+  - first:
+      213: 4709596585936039556
+    second: enemy knife flip_295
+  - first:
+      213: 3657353819382399534
+    second: enemy knife flip_296
+  - first:
+      213: 5140721397919184591
+    second: enemy knife flip_297
+  - first:
+      213: -2573013797169922678
+    second: enemy knife flip_298
+  - first:
+      213: -5416179562295975876
+    second: enemy knife flip_299
+  - first:
+      213: 4851714673498357616
+    second: enemy knife flip_300
+  - first:
+      213: -370827502847404238
+    second: enemy knife flip_301
+  - first:
+      213: 5900210217275690859
+    second: enemy knife flip_302
+  - first:
+      213: 2493398952765326358
+    second: enemy knife flip_303
+  - first:
+      213: -1592093790162255696
+    second: enemy knife flip_304
+  - first:
+      213: -523029854113931800
+    second: enemy knife flip_305
+  - first:
+      213: -5424919575944605722
+    second: enemy knife flip_306
+  - first:
+      213: 5725470431065734513
+    second: enemy knife flip_307
+  - first:
+      213: -7037767140001579625
+    second: enemy knife flip_308
+  - first:
+      213: -3024934735583786924
+    second: enemy knife flip_309
+  - first:
+      213: 5994407852174339214
+    second: enemy knife flip_310
+  - first:
+      213: -4727455160711738274
+    second: enemy knife flip_311
+  - first:
+      213: 4157599468115741304
+    second: enemy knife flip_312
+  - first:
+      213: -5700478535481313567
+    second: enemy knife flip_313
+  - first:
+      213: 5243820823278494756
+    second: enemy knife flip_314
+  - first:
+      213: -7340659373674859346
+    second: enemy knife flip_315
+  - first:
+      213: -1936535183457156247
+    second: enemy knife flip_316
+  - first:
+      213: 1031419090664296736
+    second: enemy knife flip_317
+  - first:
+      213: 9150394107580824657
+    second: enemy knife flip_318
+  - first:
+      213: -6391567529130515728
+    second: enemy knife flip_319
+  - first:
+      213: -846859063087348965
+    second: enemy knife flip_320
+  - first:
+      213: 3053990297576755131
+    second: enemy knife flip_321
+  - first:
+      213: 2870690972849886749
+    second: enemy knife flip_322
+  - first:
+      213: -617000121773753083
+    second: enemy knife flip_323
+  - first:
+      213: -7316089936079350950
+    second: enemy knife flip_324
+  - first:
+      213: 7272120416101044631
+    second: enemy knife flip_325
+  - first:
+      213: -4200855180450622510
+    second: enemy knife flip_326
+  - first:
+      213: 4796716673799927922
+    second: enemy knife flip_327
+  - first:
+      213: 6961900947516880921
+    second: enemy knife flip_328
+  - first:
+      213: -3432775695264546846
+    second: enemy knife flip_329
+  - first:
+      213: 2445789656242773123
+    second: enemy knife flip_330
+  - first:
+      213: -4893316143328316089
+    second: enemy knife flip_331
+  - first:
+      213: -5653342232460878107
+    second: enemy knife flip_332
+  - first:
+      213: 6519521188117568059
+    second: enemy knife flip_333
+  - first:
+      213: -6009355899458725889
+    second: enemy knife flip_334
+  - first:
+      213: 4725809761092815294
+    second: enemy knife flip_335
+  - first:
+      213: 8563429216134489903
+    second: enemy knife flip_336
+  - first:
+      213: 3085360989405927805
+    second: enemy knife flip_337
+  - first:
+      213: 6165951132585080260
+    second: enemy knife flip_338
+  - first:
+      213: -1732884228263940146
+    second: enemy knife flip_339
+  - first:
+      213: 693150078924184225
+    second: enemy knife flip_340
+  - first:
+      213: 4992905988625441261
+    second: enemy knife flip_341
+  - first:
+      213: -3617842854567584904
+    second: enemy knife flip_342
+  - first:
+      213: 519527982578066011
+    second: enemy knife flip_343
+  - first:
+      213: -2616195348138412844
+    second: enemy knife flip_344
+  - first:
+      213: -1588232741040656153
+    second: enemy knife flip_345
+  - first:
+      213: 1409899325459536596
+    second: enemy knife flip_346
+  - first:
+      213: -4585690843738865233
+    second: enemy knife flip_347
+  - first:
+      213: 1477414210614246093
+    second: enemy knife flip_348
+  - first:
+      213: -793491835602869704
+    second: enemy knife flip_349
+  - first:
+      213: 6095331840918241263
+    second: enemy knife flip_350
+  - first:
+      213: -1506466971187733408
+    second: enemy knife flip_351
+  - first:
+      213: 4540858038112508687
+    second: enemy knife flip_352
+  - first:
+      213: 2184734551621717544
+    second: enemy knife flip_353
+  - first:
+      213: 5186704796294502120
+    second: enemy knife flip_354
+  - first:
+      213: -8211061776277454354
+    second: enemy knife flip_355
+  - first:
+      213: 1347848425186696728
+    second: enemy knife flip_356
+  - first:
+      213: 3729424281683845185
+    second: enemy knife flip_357
+  - first:
+      213: 1551306426536696593
+    second: enemy knife flip_358
+  - first:
+      213: 5011309025185485643
+    second: enemy knife flip_359
+  - first:
+      213: -8783171053737016754
+    second: enemy knife flip_360
+  - first:
+      213: -4869108457453125899
+    second: enemy knife flip_361
+  - first:
+      213: -5984293194860111569
+    second: enemy knife flip_362
+  - first:
+      213: 8298059304701322670
+    second: enemy knife flip_363
+  - first:
+      213: 437265678901375329
+    second: enemy knife flip_364
+  - first:
+      213: 6587060542467500416
+    second: enemy knife flip_365
+  - first:
+      213: -5258132635101499326
+    second: enemy knife flip_366
+  - first:
+      213: -2822090039685945495
+    second: enemy knife flip_367
+  - first:
+      213: 8651547382358750564
+    second: enemy knife flip_368
+  - first:
+      213: -2442821096608571694
+    second: enemy knife flip_369
+  - first:
+      213: 8187614186460849296
+    second: enemy knife flip_370
+  - first:
+      213: -6708572905494030662
+    second: enemy knife flip_371
+  - first:
+      213: -3438794806344769189
+    second: enemy knife flip_372
+  - first:
+      213: -4872163658279417214
+    second: enemy knife flip_373
+  - first:
+      213: 7494941063228653805
+    second: enemy knife flip_374
+  - first:
+      213: 3253979399096747840
+    second: enemy knife flip_375
+  - first:
+      213: 5082827041215175257
+    second: enemy knife flip_376
+  - first:
+      213: -7450143356118307992
+    second: enemy knife flip_377
+  - first:
+      213: -1906225385668691847
+    second: enemy knife flip_378
+  - first:
+      213: 3908232252511066249
+    second: enemy knife flip_379
+  - first:
+      213: 3276668797820430533
+    second: enemy knife flip_380
+  - first:
+      213: 6063060804759958490
+    second: enemy knife flip_381
+  - first:
+      213: 3625597174018984970
+    second: enemy knife flip_382
+  - first:
+      213: -4187713775492723202
+    second: enemy knife flip_383
+  - first:
+      213: 5758999067258455134
+    second: enemy knife flip_384
+  - first:
+      213: 1963544267526259183
+    second: enemy knife flip_385
+  - first:
+      213: -2796073061673209037
+    second: enemy knife flip_386
+  - first:
+      213: -7903382444383810777
+    second: enemy knife flip_387
+  - first:
+      213: -268610255962340619
+    second: enemy knife flip_388
+  - first:
+      213: 3462027971068035342
+    second: enemy knife flip_389
+  - first:
+      213: 3469515744676860042
+    second: enemy knife flip_390
+  - first:
+      213: 1489338377384551419
+    second: enemy knife flip_391
+  - first:
+      213: -1589132352307381191
+    second: enemy knife flip_392
+  - first:
+      213: -9104725993074508121
+    second: enemy knife flip_393
+  - first:
+      213: 8268262296636526140
+    second: enemy knife flip_394
+  - first:
+      213: 3300478412547433785
+    second: enemy knife flip_395
+  - first:
+      213: 3912771061373223174
+    second: enemy knife flip_396
+  - first:
+      213: 5514464029765223699
+    second: enemy knife flip_397
+  - first:
+      213: -6411527727770041978
+    second: enemy knife flip_398
+  - first:
+      213: 5385244913250113915
+    second: enemy knife flip_399
+  - first:
+      213: -3773732776386204658
+    second: enemy knife flip_400
+  - first:
+      213: -6334039860575340315
+    second: enemy knife flip_401
+  - first:
+      213: 8700358833130244662
+    second: enemy knife flip_402
+  - first:
+      213: -2824244397990596541
+    second: enemy knife flip_403
+  - first:
+      213: 2766182248860512410
+    second: enemy knife flip_404
+  - first:
+      213: -1474872566815526600
+    second: enemy knife flip_405
+  - first:
+      213: -5758676366169980430
+    second: enemy knife flip_406
+  - first:
+      213: -721657064698888162
+    second: enemy knife flip_407
+  - first:
+      213: -1897720919058392885
+    second: enemy knife flip_408
+  - first:
+      213: 3004009884254213343
+    second: enemy knife flip_409
+  - first:
+      213: 7390616429531512867
+    second: enemy knife flip_410
+  - first:
+      213: -5876397814269997741
+    second: enemy knife flip_411
+  - first:
+      213: -6572761956818788603
+    second: enemy knife flip_412
+  - first:
+      213: 7357606510158227775
+    second: enemy knife flip_413
+  - first:
+      213: -3011631289202864889
+    second: enemy knife flip_414
+  - first:
+      213: 3458626132013641433
+    second: enemy knife flip_415
+  - first:
+      213: -148761261694078640
+    second: enemy knife flip_416
+  - first:
+      213: 1336573586223483511
+    second: enemy knife flip_417
+  - first:
+      213: 1830240621243537988
+    second: enemy knife flip_418
+  - first:
+      213: 2548134341555472953
+    second: enemy knife flip_419
+  - first:
+      213: -8898890144045147186
+    second: enemy knife flip_420
+  - first:
+      213: -2819313953977440050
+    second: enemy knife flip_421
+  - first:
+      213: 3437541303382800528
+    second: enemy knife flip_422
+  - first:
+      213: -2115049200458832418
+    second: enemy knife flip_423
+  - first:
+      213: 4971264739477077054
+    second: enemy knife flip_424
+  - first:
+      213: -1057569125101661385
+    second: enemy knife flip_425
+  - first:
+      213: -7708627241978192710
+    second: enemy knife flip_426
+  - first:
+      213: 4772838215669652343
+    second: enemy knife flip_427
+  - first:
+      213: 7549346105320509358
+    second: enemy knife flip_428
+  - first:
+      213: 6368506115844487843
+    second: enemy knife flip_429
+  - first:
+      213: -4718339388405113197
+    second: enemy knife flip_430
+  - first:
+      213: -1336598806237090152
+    second: enemy knife flip_431
+  - first:
+      213: 6659830904606997671
+    second: enemy knife flip_432
+  - first:
+      213: 5225060437790546639
+    second: enemy knife flip_433
+  - first:
+      213: 1564773277530172031
+    second: enemy knife flip_434
+  - first:
+      213: -1145067841182040459
+    second: enemy knife flip_435
+  - first:
+      213: 2104187133855916371
+    second: enemy knife flip_436
+  - first:
+      213: 8974779944240716883
+    second: enemy knife flip_437
+  - first:
+      213: 7398772524393230594
+    second: enemy knife flip_438
+  - first:
+      213: -4278517282060733236
+    second: enemy knife flip_439
+  - first:
+      213: -8934946761613825077
+    second: enemy knife flip_440
+  - first:
+      213: -6117086021305001418
+    second: enemy knife flip_441
+  - first:
+      213: -8677615069696651223
+    second: enemy knife flip_442
+  - first:
+      213: 4434349138588103376
+    second: enemy knife flip_443
+  - first:
+      213: 1834863814002961114
+    second: enemy knife flip_444
+  - first:
+      213: 6704251072655962665
+    second: enemy knife flip_445
+  - first:
+      213: -2134966366069307021
+    second: enemy knife flip_446
+  - first:
+      213: 6365817811882674371
+    second: enemy knife flip_447
+  - first:
+      213: -4315697410641799332
+    second: enemy knife flip_448
+  - first:
+      213: -8506885079687624035
+    second: enemy knife flip_449
+  - first:
+      213: 1856499312009635059
+    second: enemy knife flip_450
+  - first:
+      213: -6227449363337210459
+    second: enemy knife flip_451
+  - first:
+      213: -2149652979311571207
+    second: enemy knife flip_452
+  - first:
+      213: 9217119771544293011
+    second: enemy knife flip_453
+  - first:
+      213: -2688275863794131337
+    second: enemy knife flip_454
+  - first:
+      213: 7340418325204501521
+    second: enemy knife flip_455
+  - first:
+      213: 1541719362943081768
+    second: enemy knife flip_456
+  - first:
+      213: -4326040379088640656
+    second: enemy knife flip_457
+  - first:
+      213: 640914402126122334
+    second: enemy knife flip_458
+  - first:
+      213: 7325337366555365207
+    second: enemy knife flip_459
+  - first:
+      213: 1877162424893199921
+    second: enemy knife flip_460
+  - first:
+      213: -5836083805955020848
+    second: enemy knife flip_461
+  - first:
+      213: -1114852871162372298
+    second: enemy knife flip_462
+  - first:
+      213: -7186920359077551745
+    second: enemy knife flip_463
+  - first:
+      213: -7224922084908231281
+    second: enemy knife flip_464
+  - first:
+      213: -3290281256864531697
+    second: enemy knife flip_465
+  - first:
+      213: -3872482587454965815
+    second: enemy knife flip_466
+  - first:
+      213: 5316216445631326661
+    second: enemy knife flip_467
+  - first:
+      213: -4369504629850464971
+    second: enemy knife flip_468
+  - first:
+      213: 5810980695507749183
+    second: enemy knife flip_469
+  - first:
+      213: 5911918573044906872
+    second: enemy knife flip_470
+  - first:
+      213: 7371027013008658554
+    second: enemy knife flip_471
+  - first:
+      213: 897183441454178643
+    second: enemy knife flip_472
+  - first:
+      213: -5156342572914253311
+    second: enemy knife flip_473
+  - first:
+      213: -5918289395444689976
+    second: enemy knife flip_474
+  - first:
+      213: 5069975319028575105
+    second: enemy knife flip_475
+  - first:
+      213: 1410657851152032213
+    second: enemy knife flip_476
+  - first:
+      213: -4720532455230156429
+    second: enemy knife flip_477
+  - first:
+      213: -3016877150214723069
+    second: enemy knife flip_478
+  - first:
+      213: -3460762852492515464
+    second: enemy knife flip_479
+  - first:
+      213: -1826961825559625094
+    second: enemy knife flip_480
+  - first:
+      213: -8277702613422617714
+    second: enemy knife flip_481
+  - first:
+      213: 4807168212267434614
+    second: enemy knife flip_482
+  - first:
+      213: -8681909238748800417
+    second: enemy knife flip_483
+  - first:
+      213: -4488505946247831333
+    second: enemy knife flip_484
+  - first:
+      213: -5803367406825197525
+    second: enemy knife flip_485
+  - first:
+      213: -4496375135316499868
+    second: enemy knife flip_486
+  - first:
+      213: 6688248065708383009
+    second: enemy knife flip_487
+  - first:
+      213: -831901574383055531
+    second: enemy knife flip_488
+  - first:
+      213: 651230130123961001
+    second: enemy knife flip_489
+  - first:
+      213: 4891088547231651255
+    second: enemy knife flip_490
+  - first:
+      213: -5687788761817169652
+    second: enemy knife flip_491
+  - first:
+      213: 5379207569289536679
+    second: enemy knife flip_492
+  - first:
+      213: 7827194134502992201
+    second: enemy knife flip_493
+  - first:
+      213: -4737264028026309785
+    second: enemy knife flip_494
+  - first:
+      213: 6261413601341908889
+    second: enemy knife flip_495
+  - first:
+      213: -3350179986822622712
+    second: enemy knife flip_496
+  - first:
+      213: 6962938365860036987
+    second: enemy knife flip_497
+  - first:
+      213: 2878471687909579884
+    second: enemy knife flip_498
+  - first:
+      213: 752393928411746236
+    second: enemy knife flip_499
+  - first:
+      213: -3975924530004147300
+    second: enemy knife flip_500
+  - first:
+      213: 4656124016884745358
+    second: enemy knife flip_501
+  - first:
+      213: 4831919078641991965
+    second: enemy knife flip_502
+  - first:
+      213: 2939464389327128332
+    second: enemy knife flip_503
+  - first:
+      213: -7569228673932471661
+    second: enemy knife flip_504
+  - first:
+      213: 3928632513098527543
+    second: enemy knife flip_505
+  - first:
+      213: -185160754976563248
+    second: enemy knife flip_506
+  - first:
+      213: 4266166785980288276
+    second: enemy knife flip_507
+  - first:
+      213: 2222981138760849303
+    second: enemy knife flip_508
+  - first:
+      213: -2004550096538643057
+    second: enemy knife flip_509
+  - first:
+      213: -9112805087711931553
+    second: enemy knife flip_510
+  - first:
+      213: -278061121719557314
+    second: enemy knife flip_511
+  - first:
+      213: 5220810624852869883
+    second: enemy knife flip_512
+  - first:
+      213: -1935057772595485155
+    second: enemy knife flip_513
+  - first:
+      213: -2904100928698438614
+    second: enemy knife flip_514
+  - first:
+      213: 3799385072666520119
+    second: enemy knife flip_515
+  - first:
+      213: 6963874619791814989
+    second: enemy knife flip_516
+  - first:
+      213: 9130612650872188643
+    second: enemy knife flip_517
+  - first:
+      213: 7263093941929696226
+    second: enemy knife flip_518
+  - first:
+      213: 6811240637525858220
+    second: enemy knife flip_519
+  - first:
+      213: -3580176192241644410
+    second: enemy knife flip_520
+  - first:
+      213: -5259247198255867901
+    second: enemy knife flip_521
+  - first:
+      213: -8248226324478651230
+    second: enemy knife flip_522
+  - first:
+      213: -1547243281861186785
+    second: enemy knife flip_523
+  - first:
+      213: -3780024515786540780
+    second: enemy knife flip_524
+  - first:
+      213: -7821510529209388705
+    second: enemy knife flip_525
+  - first:
+      213: -3453761152179095510
+    second: enemy knife flip_526
+  - first:
+      213: 7421125013427420922
+    second: enemy knife flip_527
+  - first:
+      213: 136035001925149742
+    second: enemy knife flip_528
+  - first:
+      213: 752860819703558766
+    second: enemy knife flip_529
+  - first:
+      213: 2443833543494564312
+    second: enemy knife flip_530
+  - first:
+      213: -6140064097335247820
+    second: enemy knife flip_531
+  - first:
+      213: 3628189328569384901
+    second: enemy knife flip_532
+  - first:
+      213: -1205794237761868191
+    second: enemy knife flip_533
+  - first:
+      213: 7526298142153148305
+    second: enemy knife flip_534
+  - first:
+      213: -3839712865881125961
+    second: enemy knife flip_535
+  - first:
+      213: -8374889138071555681
+    second: enemy knife flip_536
+  - first:
+      213: 8978610387106356179
+    second: enemy knife flip_537
+  - first:
+      213: -4025832970762215087
+    second: enemy knife flip_538
+  - first:
+      213: 286914210202985660
+    second: enemy knife flip_539
+  - first:
+      213: 2247867904225842105
+    second: enemy knife flip_540
+  - first:
+      213: -7925377865932850496
+    second: enemy knife flip_541
+  - first:
+      213: -4572200957189084844
+    second: enemy knife flip_542
+  - first:
+      213: 3806734192817356673
+    second: enemy knife flip_543
+  - first:
+      213: -205142110362783129
+    second: enemy knife flip_544
+  - first:
+      213: 6106876785721148746
+    second: enemy knife flip_545
+  - first:
+      213: -8388856659958692939
+    second: enemy knife flip_546
+  - first:
+      213: -7032599526300802124
+    second: enemy knife flip_547
+  - first:
+      213: -1539460203794191362
+    second: enemy knife flip_548
+  - first:
+      213: -173958508558817740
+    second: enemy knife flip_549
+  - first:
+      213: -1495183558435794794
+    second: enemy knife flip_550
+  - first:
+      213: 2703989950479874450
+    second: enemy knife flip_551
+  - first:
+      213: 8452774952978562726
+    second: enemy knife flip_552
+  - first:
+      213: -7193735243685674361
+    second: enemy knife flip_553
+  - first:
+      213: 5599219817731767609
+    second: enemy knife flip_554
+  - first:
+      213: 2170984650988310159
+    second: enemy knife flip_555
+  - first:
+      213: 8716450902293242258
+    second: enemy knife flip_556
+  - first:
+      213: -5420512707546936658
+    second: enemy knife flip_557
+  - first:
+      213: 9133057368745558387
+    second: enemy knife flip_558
+  - first:
+      213: -7724429621672681336
+    second: enemy knife flip_559
+  - first:
+      213: 7421076737625693930
+    second: enemy knife flip_560
+  - first:
+      213: 5414131916887984685
+    second: enemy knife flip_561
+  - first:
+      213: 9167808107206913637
+    second: enemy knife flip_562
+  - first:
+      213: -8492558036446755592
+    second: enemy knife flip_563
+  - first:
+      213: 9182741407316345927
+    second: enemy knife flip_564
+  - first:
+      213: 7650383201540128686
+    second: enemy knife flip_565
+  - first:
+      213: 1299943766839616103
+    second: enemy knife flip_566
+  - first:
+      213: -6487424246138919400
+    second: enemy knife flip_567
+  - first:
+      213: 1334054037715715592
+    second: enemy knife flip_568
+  - first:
+      213: 6375294262105944232
+    second: enemy knife flip_569
+  - first:
+      213: -7679289378230252504
+    second: enemy knife flip_570
+  - first:
+      213: 5142218878769596680
+    second: enemy knife flip_571
+  - first:
+      213: -869355030107801270
+    second: enemy knife flip_572
+  - first:
+      213: 6236617836808366795
+    second: enemy knife flip_573
+  - first:
+      213: 5432306264186110538
+    second: enemy knife flip_574
+  - first:
+      213: -6923591697310475162
+    second: enemy knife flip_575
+  - first:
+      213: -3436030287014079425
+    second: enemy knife flip_576
+  - first:
+      213: -4713624012657221884
+    second: enemy knife flip_577
+  - first:
+      213: 3377124856876977516
+    second: enemy knife flip_578
+  - first:
+      213: -5888730817719324231
+    second: enemy knife flip_579
+  - first:
+      213: 5170028209180022715
+    second: enemy knife flip_580
+  - first:
+      213: -907044172931018295
+    second: enemy knife flip_581
+  - first:
+      213: -4073888785046055288
+    second: enemy knife flip_582
+  - first:
+      213: 7664309104870345496
+    second: enemy knife flip_583
+  - first:
+      213: -7307247579248052742
+    second: enemy knife flip_584
+  - first:
+      213: 1209370846504768853
+    second: enemy knife flip_585
+  - first:
+      213: -919680804389244873
+    second: enemy knife flip_586
+  - first:
+      213: -7425879873657299417
+    second: enemy knife flip_587
+  - first:
+      213: -5427931208679580472
+    second: enemy knife flip_588
+  - first:
+      213: -7764522189322327323
+    second: enemy knife flip_589
+  - first:
+      213: -2009731810584631867
+    second: enemy knife flip_590
+  - first:
+      213: 5156776770441082140
+    second: enemy knife flip_591
+  - first:
+      213: -1257822502030644522
+    second: enemy knife flip_592
+  - first:
+      213: 7559376092224171161
+    second: enemy knife flip_593
+  - first:
+      213: 7134941179368947961
+    second: enemy knife flip_594
+  - first:
+      213: 3077764167330634085
+    second: enemy knife flip_595
+  - first:
+      213: 7680473928250496514
+    second: enemy knife flip_596
+  - first:
+      213: -2466668321846822392
+    second: enemy knife flip_597
+  - first:
+      213: -1383354270888118610
+    second: enemy knife flip_598
+  - first:
+      213: -1417276774637437761
+    second: enemy knife flip_599
+  - first:
+      213: -5744532571175977842
+    second: enemy knife flip_600
+  - first:
+      213: -9152505628464049997
+    second: enemy knife flip_601
+  - first:
+      213: 5799165451144761503
+    second: enemy knife flip_602
+  - first:
+      213: -7562988918441010165
+    second: enemy knife flip_603
+  - first:
+      213: -7941187794883236260
+    second: enemy knife flip_604
+  - first:
+      213: -8947514489448155209
+    second: enemy knife flip_605
+  - first:
+      213: 1711699332212996827
+    second: enemy knife flip_606
+  - first:
+      213: 7720434239081750782
+    second: enemy knife flip_607
+  - first:
+      213: -1770058455327733474
+    second: enemy knife flip_608
+  - first:
+      213: -5315432510904661217
+    second: enemy knife flip_609
+  - first:
+      213: 3154808884516899010
+    second: enemy knife flip_610
+  - first:
+      213: 2333947816010916947
+    second: enemy knife flip_611
+  - first:
+      213: -972487139306216169
+    second: enemy knife flip_612
+  - first:
+      213: 7194859119578278831
+    second: enemy knife flip_613
+  - first:
+      213: 7443177179553172928
+    second: enemy knife flip_614
+  - first:
+      213: -5638602498460345688
+    second: enemy knife flip_615
+  - first:
+      213: -4129281450650874429
+    second: enemy knife flip_616
+  - first:
+      213: -7050329175252929788
+    second: enemy knife flip_617
+  - first:
+      213: 407806458593144887
+    second: enemy knife flip_618
+  - first:
+      213: -3210168448848896613
+    second: enemy knife flip_619
+  - first:
+      213: 3324506314345402883
+    second: enemy knife flip_620
+  - first:
+      213: -7226598562573981883
+    second: enemy knife flip_621
+  - first:
+      213: -3927268335818410861
+    second: enemy knife flip_622
+  - first:
+      213: -898278152565770016
+    second: enemy knife flip_623
+  - first:
+      213: -3546091263718653463
+    second: enemy knife flip_624
+  - first:
+      213: -7641310463564342021
+    second: enemy knife flip_625
+  - first:
+      213: 4815617653172625162
+    second: enemy knife flip_626
+  - first:
+      213: -1568398625194052476
+    second: enemy knife flip_627
+  - first:
+      213: -645894452531455227
+    second: enemy knife flip_628
+  - first:
+      213: -2241295392331479374
+    second: enemy knife flip_629
+  - first:
+      213: 478725409418575981
+    second: enemy knife flip_630
+  - first:
+      213: 9187418895053752152
+    second: enemy knife flip_631
+  - first:
+      213: -4237803973877071323
+    second: enemy knife flip_632
+  - first:
+      213: 3354486206885008449
+    second: enemy knife flip_633
+  - first:
+      213: -7137674327027957842
+    second: enemy knife flip_634
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy knife flip_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 391
+        height: 1352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8da65e3625509dc0800000000000000
+      internalID: -3634311276545004150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy knife flip_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 24
+        width: 498
+        height: 1352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612bf7bf5e39a2170800000000000000
+      internalID: 8154492691283948054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy knife flip_3
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 22
+        width: 553
+        height: 1361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10e12a459d7267d0800000000000000
+      internalID: -2926638727690067938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy knife flip_5
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 0
+        width: 497
+        height: 1522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0c16ec442ebbec0800000000000000
+      internalID: -3549995096103337732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy knife flip_7
+      rect:
+        serializedVersion: 2
+        x: 3317
+        y: 8
+        width: 453
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848e3c87953763140800000000000000
+      internalID: 4699070089323079752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy knife flip_8
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 0
+        width: 473
+        height: 1522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3498ded5ac291c50800000000000000
+      internalID: 6636384616827098172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
